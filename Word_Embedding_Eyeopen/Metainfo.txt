@@ -1,0 +1,11 @@
+Name of QuantLet : 'Word_Embedding_Eyeopen'
+
+Published in : 'Emoji-Embedding-For-Finance' 
+
+Description : 'An example of word embedding via Bert.'
+
+Keywords : 'Bert , Embedding'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Sat, Nov 11 2023

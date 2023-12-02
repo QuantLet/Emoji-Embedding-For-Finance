@@ -1,0 +1,11 @@
+Name of QuantLet : 'Emoji-Embedding-For-Finance'
+
+Published in : 'Emoji-Embedding-For-Finance' 
+
+Description : 'A collection of codings of emoji embedding project.'
+
+Keywords : 'Emoji , Embedding'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Sat, Nov 11 2023
