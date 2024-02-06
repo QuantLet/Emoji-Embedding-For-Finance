@@ -1,0 +1,11 @@
+Name of QuantLet : 'Emoji-VCRIX'
+
+Published in : 'Emoji-Embedding-For-Finance' 
+
+Description : 'Check the relationship between delta VCRIX and Emoji sentiment.'
+
+Keywords : 'Emoji , Embedding, VCRIX'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Tue, Feb 6 2023
