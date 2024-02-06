@@ -1,0 +1,11 @@
+Name of QuantLet : 'Possitive Negative Emojis'
+
+Published in : 'Emoji-Embedding-For-Finance' 
+
+Description : 'Generate the picture of the most Possitive/Negative emoji groups.'
+
+Keywords : 'Emoji , Embedding'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Tue, Feb 6 2023
