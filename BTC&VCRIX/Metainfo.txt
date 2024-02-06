@@ -1,0 +1,11 @@
+Name of QuantLet : 'BTC&VCRIX'
+
+Published in : 'Emoji-Embedding-For-Finance' 
+
+Description : 'info about BTC price and VCRIX.'
+
+Keywords : 'Emoji , BTC, VCRIX'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Wed, Feb 3 2023
