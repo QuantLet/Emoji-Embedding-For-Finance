@@ -1,0 +1,11 @@
+Name of QuantLet : 'Sentiment Overtime'
+
+Published in : 'Emoji-Embedding-For-Finance' 
+
+Description : 'Capture the overtime emoji sentiment.'
+
+Keywords : 'Emoji , Embedding'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Tue, Feb 6 2023
