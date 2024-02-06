@@ -1,0 +1,11 @@
+Name of QuantLet : 'Emoji-BTC'
+
+Published in : 'Emoji-Embedding-For-Finance' 
+
+Description : 'Check the relationship between BTC price and Emoji sentiment.'
+
+Keywords : 'Emoji , Embedding'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Tue, Feb 6 2023
