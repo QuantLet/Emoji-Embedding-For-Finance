@@ -1,0 +1,11 @@
+Name of QuantLet : 'Frequency Generate'
+
+Published in : 'Emoji-Embedding-For-Finance' 
+
+Description : 'Generate the descirption of the raw data of the training set.'
+
+Keywords : 'Emoji , Embedding'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Tue, Feb 6 2023
