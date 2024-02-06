@@ -1,0 +1,11 @@
+Name of QuantLet : 'Our Model vs BERT'
+
+Published in : 'Emoji-Embedding-For-Finance' 
+
+Description : 'Generating the comparison pictures.'
+
+Keywords : 'Emoji , Embedding'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Tue, Feb 6 2023
