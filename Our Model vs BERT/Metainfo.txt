@@ -2,7 +2,7 @@ Name of QuantLet : 'Our Model vs BERT'
 
 Published in : 'Emoji-Embedding-For-Finance' 
 
-Description : 'Generating the comparison pictures.'
+Description : 'Generating the comparison pictures. Contact xiaoruizuo87@gmail.com if you want the .pth file.'
 
 Keywords : 'Emoji , Embedding'
 
