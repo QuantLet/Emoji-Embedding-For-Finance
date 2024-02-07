@@ -1,0 +1,11 @@
+Name of QuantLet : 'Strategy'
+
+Published in : 'Emoji-Embedding-For-Finance' 
+
+Description : 'calculation about BTC strategy.'
+
+Keywords : 'Emoji , BTC'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Thu, Feb 8 2023
