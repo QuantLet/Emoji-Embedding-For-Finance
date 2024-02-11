@@ -6,6 +6,6 @@ Description : 'Generating the comparison pictures. Contact xiaoruizuo87@gmail.co
 
 Keywords : 'Emoji , Embedding'
 
-Author : 'WK Haerdle Zuo Xiaorui'
+Author : 'WK Haerdle ZUO Xiaorui'
 
 Submitted : Tue, Feb 6 2023
