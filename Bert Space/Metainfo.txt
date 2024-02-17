@@ -1,0 +1,11 @@
+Name of QuantLet : 'Bert Space'
+
+Published in : 'Emoji-Embedding-For-Finance' 
+
+Description : 'Showing examples of Bert embedding'
+
+Keywords : 'embedding , Bert'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Sat, Feb 17 2023
